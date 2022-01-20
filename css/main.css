@@ -1,0 +1,219 @@
+h1{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+    color: #252526;
+}
+
+h2{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+    color: #252526;
+}
+
+#ux{
+    color: #9F5640;
+}
+
+.orange-box{
+    display: block;
+}
+
+.orange-box:active, .orange-box:hover, .orange-box:focus{
+    background-color: #252526;
+}
+
+#footer-background{
+    background-color: #9F5640;
+    padding:4rem;
+    
+}
+
+#footer-email{
+    color: white;
+}
+
+#navbar{
+    background-color: #252526;
+    position: fixed;
+    width: 100%;
+    display: block;
+    
+    
+}
+
+#navbar_1{
+    background-color: #252526;
+    position: fixed;
+    width: 100%;
+    display: block;
+    top: 0px;
+}
+
+#navbar {
+    top: 0px;
+    transition: top 0.3s;
+}
+  
+#navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-family: 'Heebo', sans-serif;
+}
+
+#navbar_1 a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-family: 'Heebo', sans-serif;
+}
+  
+#navbar a:active, #navbar a:hover, #navbar a:focus,
+#navbar_1 a:active, #navbar_1 a:hover, #navbar_1 a:focus,{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+#work-navbar, #work-navbar-index{
+    margin-right: 2rem;
+}
+
+.project-name{
+    color: #252526;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.footer-desc{
+    color: #252526;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.link{
+    color: #9F5640;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    text-decoration: underline;
+}
+
+.c-link{
+    color: #252526;
+    text-decoration: none;
+}
+
+.project-name:active, .project-name:hover, .project-name:focus,
+.c-link:active, .c-link:hover, .c-link:focus{
+    text-decoration: underline;
+    text-decoration-color: #9F5640;
+    
+}
+
+.link:active, .link:hover, .link:focus{
+    text-decoration: none;
+    color: white;
+    background-color: #9F5640;
+}
+
+.project-info{
+    color: #AFAFAF;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    margin-top: -0.7rem;
+}
+
+.caption{
+    color: #252526;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.project-desc{
+    color: #252526;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    line-height: 1.6;
+}
+
+.role, .team, .duration{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.main, .main-1{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height:1.6;
+}
+
+.main-1{
+    margin-bottom: 4rem;
+}
+
+.co-sc{
+    width: 100%;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+#green{
+    background-color: #37563F;
+    color: #FFB950;
+}
+
+#yellow{
+    background-color: #FFB950;
+    color: #37563F;
+}
+
+#beige{
+    background-color: #FFFBF1;
+    color: #37563F;
+}
+
+#green, #yellow, #beige{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.color-description{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height:1.6;
+    padding-top: 1rem; 
+    text-align: left;
+    border:none;
+}
+
+#tree-img{
+    width:100%;
+    border-radius: 0.5rem;
+} 
+
+
