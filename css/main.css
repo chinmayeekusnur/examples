@@ -14,13 +14,14 @@ h2{
   background-color: #252526;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 100% 40%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  
   cursor: pointer;
+  font-family: 'Heebo', sans-serif;
 }
 
 #ux{
