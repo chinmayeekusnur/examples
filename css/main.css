@@ -12,14 +12,14 @@ h2{
 
 .button {
   background-color: #252526;
+  display: block;
+  width: 100%;
   border: none;
   color: white;
-  padding: 60% 40%;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 2rem;
+  padding: 14px 28px;
+  font-size: 16px;
   cursor: pointer;
+  text-align: center;
   font-family: 'Heebo', sans-serif;
 }
 
