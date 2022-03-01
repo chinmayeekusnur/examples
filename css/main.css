@@ -71,10 +71,10 @@ body {
 
 
 /* Create four equal columns that sits next to each other */
-.column {
+.column1 {
   -ms-flex: 33.33%; /* IE10 */
   flex: 33.33%;
-  max-width: 25%;
+  max-width: 33.33%;
   padding: 0 10px;
 }
 
