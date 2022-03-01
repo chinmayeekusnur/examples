@@ -57,9 +57,9 @@ body {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
+  -ms-flex: 33.33%; /* IE10 */
+  flex: 33.33%;
+  max-width: 33.33%;
   padding: 0 4px;
 }
 
@@ -67,15 +67,6 @@ body {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
-}
-
-
-/* Create four equal columns that sits next to each other */
-.column1 {
-  -ms-flex: 33.33%; /* IE10 */
-  flex: 33.33%;
-  max-width: 33.33%;
-  padding: 0 10px;
 }
 
 #ux{
