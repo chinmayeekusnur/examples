@@ -29,6 +29,11 @@ h2{
     background-color: #9F5640;
 }
 
+.m{
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+
 * {
   box-sizing: border-box;
 }
