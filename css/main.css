@@ -27,7 +27,6 @@ h2{
 
 .button:active, .button:hover, .button:focus{
     background-color: #9F5640;
-    color: #252526;
 }
 
 * {
