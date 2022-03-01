@@ -163,7 +163,7 @@
 
     .grid.two-column{
         grid-template-columns: 1fr;
-        grid-gap: 2rem;
+        grid-gap: 1rem;
         grid-row-gap: 2rem;
     }
 
@@ -262,7 +262,7 @@
 
     .grid.two-column{
         grid-template-columns: 1fr;
-        grid-gap: 2rem;
+        grid-gap: 1rem;
         grid-row-gap: 2rem;
     }
 
@@ -349,7 +349,7 @@
 
     .grid.two-column{
         grid-template-columns: 1fr 1fr;
-        grid-gap: 4rem;
+        grid-gap: 2rem;
         grid-row-gap: 2rem;
     }
 
