@@ -47,7 +47,7 @@ body {
   padding: 32px;
 }
 
-.row {
+.row, .row1 {
   display: -ms-flexbox; /* IE10 */
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
@@ -63,10 +63,19 @@ body {
   padding: 0 4px;
 }
 
-.column img {
+.column img, .column1 img {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
+}
+
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 33.33%; /* IE10 */
+  flex: 33.33%;
+  max-width: 25%;
+  padding: 0 10px;
 }
 
 #ux{
