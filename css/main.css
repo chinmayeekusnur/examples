@@ -242,18 +242,18 @@ body {
 }
 
 #green{
-    background-color: #37563F;
-    color: #FFB950;
+    background-color: #000000;
+    
 }
 
 #yellow{
-    background-color: #FFB950;
-    color: #37563F;
+    background-color: #FFFFFF;
+    
 }
 
 #beige{
-    background-color: #FFFBF1;
-    color: #37563F;
+    background-color: #FBB916;
+    
 }
 
 #green, #yellow, #beige{
