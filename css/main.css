@@ -255,7 +255,8 @@ body {
 
 #green1{
     background-color: #194525;
-    padding: 20px; 
+    padding: 40px; 
+    color: white; 
     
 }
 
@@ -271,7 +272,8 @@ body {
 
 #red{
     background-color: #ED1F24;
-    padding: 20px; 
+    padding: 40px; 
+    color: white; 
 }
 
 #green, #yellow, #beige, #green1, #red{
