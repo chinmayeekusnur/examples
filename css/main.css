@@ -88,6 +88,9 @@ body {
 
 .p{
     width:60%;
+    marign-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #footer-background{
