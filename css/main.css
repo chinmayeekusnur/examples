@@ -246,6 +246,11 @@ body {
     
 }
 
+#green1{
+    background-color: #194525;
+    
+}
+
 #yellow{
     background-color: #FFFFFF;
     outline: 2px black;
@@ -253,6 +258,11 @@ body {
 
 #beige{
     background-color: #FBB916;
+    
+}
+
+#red{
+    background-color: #ED1F24;
     
 }
 
